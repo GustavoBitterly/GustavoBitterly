@@ -1,4 +1,4 @@
-                                                     ### Hi 👋, I'm Gustavo Bitterly Pavez
+                                                      Hi 👋, I'm Gustavo Bitterly Pavez
 
 - 🔭 I’m currently working as a Quality Assurance Analist.
 - 🌱 I’m currently learning Python.
