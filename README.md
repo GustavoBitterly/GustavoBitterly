@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Gustavo Bitterly Pavez
 
+- 🔭 I’m currently working as a Quality Assurance Analist.
+- 🌱 I’m currently learning Python.
+  
 <!--
 **GustavoBitterly/GustavoBitterly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
