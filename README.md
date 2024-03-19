@@ -1,6 +1,6 @@
                                                       Hi 👋, I'm Gustavo Bitterly Pavez
 
-- 🔭 I’m currently working as a Quality Assurance Analist.
+- 🔭 I’m currently working as a Quality Assurance Analyst.
 - 🌱 I’m currently learning Python.
   
 <!--
