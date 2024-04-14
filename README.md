@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working as a Quality Assurance Analyst.
 - 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Selenium.
+
+- 📫 How to reach me: gustavo.bitterly@icloud.com
   
 <!--
 **GustavoBitterly/GustavoBitterly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
